@@ -26,4 +26,19 @@ This application helps manage hotel operations such as room bookings, guest mana
 | Database    | Oracle                         |
 | IDE         | Visual Studio                  |
 
+## Screenshots
+
+### Login Page  
+![Login](Screenshot/login.png)
+
+### Dashboard s 
+![Dashboard](Screenshot/M1.png)
+![Dashboard](Screenshot/M2.png)
+![Dashboard](Screenshot/M3.png)
+![Dashboard](Screenshot/M4.png)
+![Dashboard](Screenshot/M5.png)
+![Dashboard](Screenshot/R1.png)
+![Dashboard](Screenshot/r2.png)
+![Dashboard](Screenshot/R3.png)
+
 
