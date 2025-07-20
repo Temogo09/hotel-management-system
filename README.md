@@ -29,16 +29,16 @@ This application helps manage hotel operations such as room bookings, guest mana
 ## Screenshots
 
 ### Login Page  
-![Login](Screenshot/login.png)
+![Login](Screenshot/login.jpg)
 
 ### Dashboard s 
-![Dashboard](Screenshot/M1.png)
-![Dashboard](Screenshot/M2.png)
-![Dashboard](Screenshot/M3.png)
-![Dashboard](Screenshot/M4.png)
-![Dashboard](Screenshot/M5.png)
-![Dashboard](Screenshot/R1.png)
-![Dashboard](Screenshot/r2.png)
-![Dashboard](Screenshot/R3.png)
+![Dashboard](Screenshot/M1.jpg)
+![Dashboard](Screenshot/M2.jpg)
+![Dashboard](Screenshot/M3.jpg)
+![Dashboard](Screenshot/M4.jpg)
+![Dashboard](Screenshot/M5.jpg)
+![Dashboard](Screenshot/R1.jpg)
+![Dashboard](Screenshot/r2.jpg)
+![Dashboard](Screenshot/R3.jpg)
 
 
